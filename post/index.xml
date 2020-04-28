@@ -18,7 +18,7 @@
       
       <guid>/2020/04/27/import%C3%A2ncia-dos-testes/</guid>
       <description>Importância dos testesUma tecnologia acessível que consegue diagnosticar a doença em pessoas assintomáticas diminuiria bastante o impacto econômico da quarentena. Não é difícil entender o motivo. A testagem em massa identificaria os indivíduos assintomáticos positivos e negativos para o coronavírus, e assim apenas o primeiro grupo seria confinado. Os demais estariam liberados para sair da quarentena e voltar a produzir normalmente.
-De acordo com essa lógica, os autores do modelo SEIR citado neste meu post anterior, calibram uma velocidade de saída da quarentena para os testados negativos, de modo que o número de mortos nos cenários com e sem testagem sejam parecidos.</description>
+De acordo com essa lógica, os autores do modelo SEIR citado neste meu post anterior, calibram uma velocidade de saída da quarentena para os testados negativos.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ De acordo com essa lógica, os autores do modelo SEIR citado neste meu post ante
       
       <guid>/2020/04/26/previsao-de-mortes-e-pib/</guid>
       <description>Calculando o trade off Economia x Vidas. E a importância dos testesNo meu primeiro post mostrei alguns números concretos sugerindo a grande efetivade da quarentena em salvar evetuais vidas perdidas para o covid19. Neste post, faço uma estimativa da evolução do impacto do covid19, sobre a evolução do número de mortes e do PIB.
-Para isso, faço uso do modelo de David Berger, Kyle Herkenhoff e Simon Mongey para o caso americano ( https://sites.</description>
+Para isso, faço uso do modelo de David Berger, Kyle Herkenhoff e Simon Mongey para o caso americano (veja o artigo aqui).</description>
     </item>
     
     <item>
@@ -38,7 +38,8 @@ Para isso, faço uso do modelo de David Berger, Kyle Herkenhoff e Simon Mongey p
       
       <guid>/2020/04/25/quarentena/</guid>
       <description>O efeito da quarentenaO isolamento social está surtindo algum efeito já visível? A resposta não é óbvia.
-A resposta não é óbvia primeiramente porque, como muitos suspeitam, os dados divulgados não refletem a realidade. Alguns países são mais precisos na contagem de casos e mortes do que outros (se este assunto te interessa, leia esse artigo muito bom do NY times: https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html. Obs: para ler o conteúdo é preciso se cadastrar no site deles).</description>
+A resposta não é óbvia primeiramente porque, como muitos suspeitam, os dados divulgados não refletem a realidade. Alguns países são mais precisos na contagem de casos e mortes do que outros (se este assunto te interessa, leia este artigo muito bom do NY times).
+Um erro de medida grande no número casos é esperado, dado o padrão assintomático da doença e pela própria capacidade de testagem completamente diferente entre os países.</description>
     </item>
     
   </channel>
