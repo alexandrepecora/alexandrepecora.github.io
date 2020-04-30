@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/2020-04-29-testes/",
+    "title": "A importância dos testes",
+    "description": "Qual o benefício econômico de uma melhor tecnologia de testagem da população?",
+    "author": [
+      {
+        "name": "Alexandre Reggi Pecora",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-29",
+    "categories": [
+      "Corona"
+    ],
+    "preview": "posts/2020-04-29-testes/testes_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2020-04-30T00:52:38-03:00"
+  },
+  {
+    "path": "posts/2020-04-29-modelo-quarentena/",
+    "title": "Calculando o trade-off: Vidas vs Economia",
+    "description": "Como medir o número de mortes e o impacto no PIB, nas diferentes estratégias de combate ao COVID-19?",
+    "author": [
+      {
+        "name": "Alexandre Reggi Pecora",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-28",
+    "categories": [
+      "Corona"
+    ],
+    "preview": "posts/2020-04-29-modelo-quarentena/modelo-quarentena_files/figure-html5/unnamed-chunk-3-1.png",
+    "last_modified": "2020-04-30T00:57:04-03:00"
+  },
+  {
+    "path": "posts/2020-04-29-2020-04-27-quarentena/",
+    "title": "Benefícios da Quarentena",
+    "description": "A quarentena reduz o número de mortes? Em quanto?",
+    "author": [
+      {
+        "name": "Alexandre Reggi Pecora",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-27",
+    "categories": [
+      "Corona"
+    ],
+    "preview": "posts/2020-04-29-2020-04-27-quarentena/2020-04-27-quarentena_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-04-30T00:54:45-03:00"
+  }
+]
