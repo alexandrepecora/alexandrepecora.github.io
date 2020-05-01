@@ -1337,7 +1337,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol>
 <p>Veja os resultados encontrados abaixo.</p>
 <h3 id="mortes">Mortes</h3>
-<p>Essa é a evolução de mortes esperada para os casos 1) sem quarentena (em vermelho) e 2) com o padrão de quarentena atual adotado pelo Brasil (em preto). Coloquei as curvas em eixos diferentes pois a diferença entre elas é grande, repare na escala diferente:</p>
+<p>Essa é a evolução de mortes esperada para os casos 1) sem quarentena (em vermelho) e 2) com o padrão de quarentena atual adotado pelo Brasil (em preto). Coloquei as curvas em eixos diferentes pois a diferença entre elas é grande, repare nas duas escalas:</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="modelo-quarentena_files/figure-html5/unnamed-chunk-1-1.png" width="624" /></p>
 </div>
@@ -1348,11 +1348,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </ul>
 <p>Outro resultado importante é que o pico da epidemia (o dia em que o número de mortes começa a desacelerar) é adiado em aproximadamente um mês com a quarentena.</p>
 <p>Vale lembrar que essas estimativas assumem que o padrão de contágio, mortalidade, e quarentena não se alterará no próximo ano. Logicamente, essas premissas não seriam mais válidas caso haja mudança no comportamento de isolamento e higiene da população, ou avanços da medicina no combate ao vírus.</p>
-<p>Podemos avaliar se o modelo prevê corretamente a evolução do número de mortes na realidade brasileira. O gráfico a seguir faz essa comparação, considerando os dados observados após pouco mais de um mês desde a décima morte:</p>
+<p>Podemos avaliar se o modelo prevê corretamente a evolução do número de mortes na realidade brasileira. O gráfico a seguir faz essa comparação, considerando os dados observados após pouco mais de um mês desde a décima morte (a décima morte foi registrada no dia 20/03/2020):</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="modelo-quarentena_files/figure-html5/unnamed-chunk-2-1.png" width="624" /></p>
 </div>
-<p>O modelo até o momento é uma boa aproximação para a curva real brasileira. Se esse padrão se manter, o número total de mortes esperado é de 10.000 no fim de maio.</p>
+<p>O modelo até o momento é uma boa aproximação para a curva real brasileira. Se esse padrão se manter, o número total de mortes esperado é de 15.000 no fim de maio.</p>
 <h3 id="pib">PIB</h3>
 <p>Até aqui fica claro o benefício do isolamento social. Mas, ele vem carregado de um enorme custo que é o impacto negativo na atividade econômica. Para estimar este impacto, o modelo assume premissas razoáveis de que o PIB é uma função direta do número de pessoas no país. Além disso, uma pessoa infectada e com sintomas em nada contribui para o PIB (assim como uma pessoa morta), e uma pessoa em quarentena produz 50% do que produziria no caso sem quarentena (essa média já assume o efeito do desemprego). De acordo com essas premissas, essa seria a estimativa para o PIB nos dois casos:</p>
 <div class="layout-chunk" data-layout="l-body">
