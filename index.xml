@@ -7,33 +7,41 @@
     <description>Análises de dados de forma simples
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Empiricus x CVM. Regulação de analistas financeiros, sim ou não?</title>
+      <dc:creator>Alexandre Reggi Pecora</dc:creator>
+      <link>alexandrepecora.github.io/posts/2020-05-13-financial-analysis</link>
+      <description>O governo deve monitorar e exigir um mínimo de qualidade dos profissionais que recomendam investimentos?</description>
+      <guid>alexandrepecora.github.io/posts/2020-05-13-financial-analysis</guid>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Calculando o trade-off: Vidas vs Economia</title>
+      <dc:creator>Alexandre Reggi Pecora</dc:creator>
+      <link>alexandrepecora.github.io/posts/2020-04-29-modelo-quarentena</link>
+      <description>Como medir o número de mortes e o impacto no PIB, nas diferentes estratégias de combate ao COVID-19? (**ATUALIZADO 16/05**)</description>
+      <guid>alexandrepecora.github.io/posts/2020-04-29-modelo-quarentena</guid>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <media:content url="alexandrepecora.github.io/posts/2020-04-29-modelo-quarentena/modelo-quarentena_files/figure-html5/unnamed-chunk-2-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Benefícios da Quarentena</title>
+      <dc:creator>Alexandre Reggi Pecora</dc:creator>
+      <link>alexandrepecora.github.io/posts/2020-05-01-beneficios-da-quarentena</link>
+      <description>A quarentena reduz o número de mortes? Em quanto? (**ATUALIZADO 16/05**)</description>
+      <guid>alexandrepecora.github.io/posts/2020-05-01-beneficios-da-quarentena</guid>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <media:content url="alexandrepecora.github.io/posts/2020-05-01-beneficios-da-quarentena/beneficios-da-quarentena_files/figure-html5/unnamed-chunk-4-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>A importância dos testes</title>
       <dc:creator>Alexandre Reggi Pecora</dc:creator>
       <link>alexandrepecora.github.io/posts/2020-04-29-testes</link>
       <description>Qual o benefício econômico de uma melhor tecnologia de testagem da população?</description>
       <guid>alexandrepecora.github.io/posts/2020-04-29-testes</guid>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <media:content url="alexandrepecora.github.io/posts/2020-04-29-testes/testes_files/figure-html5/unnamed-chunk-2-1.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
-      <title>Calculando o trade-off: Vidas vs Economia</title>
-      <dc:creator>Alexandre Reggi Pecora</dc:creator>
-      <link>alexandrepecora.github.io/posts/2020-04-29-modelo-quarentena</link>
-      <description>Como medir o número de mortes e o impacto no PIB, nas diferentes estratégias de combate ao COVID-19?</description>
-      <guid>alexandrepecora.github.io/posts/2020-04-29-modelo-quarentena</guid>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      <media:content url="alexandrepecora.github.io/posts/2020-04-29-modelo-quarentena/modelo-quarentena_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
-      <title>Benefícios da Quarentena</title>
-      <dc:creator>Alexandre Reggi Pecora</dc:creator>
-      <link>alexandrepecora.github.io/posts/2020-05-01-beneficios-da-quarentena</link>
-      <description>A quarentena reduz o número de mortes? Em quanto?</description>
-      <guid>alexandrepecora.github.io/posts/2020-05-01-beneficios-da-quarentena</guid>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <media:content url="alexandrepecora.github.io/posts/2020-05-01-beneficios-da-quarentena/beneficios-da-quarentena_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+      <media:content url="alexandrepecora.github.io/posts/2020-04-29-testes/testes_files/figure-html5/unnamed-chunk-2-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
   </channel>
 </rss>
