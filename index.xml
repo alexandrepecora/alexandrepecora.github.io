@@ -7,7 +7,15 @@
     <description>Análises de dados de forma simples
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Simulador Covid + Quarentena + Economia</title>
+      <dc:creator>Alexandre Reggi Pecora</dc:creator>
+      <link>alexandrepecora.github.io/posts/2020-06-03-simulador-covid-quarentena-economia</link>
+      <description>Este é um modelo SEIR com diferente R0 para quarentena e cálculo do impacto no PIB</description>
+      <guid>alexandrepecora.github.io/posts/2020-06-03-simulador-covid-quarentena-economia</guid>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Empiricus x CVM. Regulação de analistas financeiros, sim ou não?</title>
       <dc:creator>Alexandre Reggi Pecora</dc:creator>
