@@ -2,17 +2,38 @@
   {
     "path": "posts/2020-06-03-simulador-covid-quarentena-economia/",
     "title": "Simulador Covid + Quarentena + Economia",
-    "description": "Este é um modelo SEIR com diferente R0 para quarentena e cálculo do impacto no PIB",
+    "description": "Modelo SEIR com diferente R0 para quarentena e cálculo do impacto no PIB",
     "author": [
       {
         "name": "Alexandre Reggi Pecora",
         "url": {}
       }
     ],
-    "date": "2020-06-03",
-    "categories": [],
+    "date": "2020-06-08",
+    "categories": [
+      "Corona"
+    ],
     "preview": {},
-    "last_modified": "2020-06-08T00:19:13-03:00"
+    "last_modified": "2020-06-08T17:10:08-03:00"
+  },
+  {
+    "path": "posts/2020-06-08-quarentena-cedo-vs-tarde/",
+    "title": "Quarentena cedo vs tarde",
+    "description": "Atualização do número de mortes total e per capita, dividindo os países de acordo com a data inicial da quarentena.",
+    "author": [
+      {
+        "name": "Alexandre Reggi Pecora",
+        "url": {}
+      }
+    ],
+    "date": "2020-06-07",
+    "categories": [
+      "Corona"
+    ],
+    "preview": "posts/2020-06-08-quarentena-cedo-vs-tarde/quarentena-cedo-vs-tarde_files/figure-html5/unnamed-chunk-3-1.png",
+    "last_modified": "2020-06-08T17:03:43-03:00",
+    "preview_width": 1248,
+    "preview_height": 768
   },
   {
     "path": "posts/2020-05-13-financial-analysis/",

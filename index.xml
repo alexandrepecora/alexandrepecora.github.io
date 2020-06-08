@@ -7,14 +7,23 @@
     <description>Análises de dados de forma simples
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Simulador Covid + Quarentena + Economia</title>
       <dc:creator>Alexandre Reggi Pecora</dc:creator>
       <link>alexandrepecora.github.io/posts/2020-06-03-simulador-covid-quarentena-economia</link>
-      <description>Este é um modelo SEIR com diferente R0 para quarentena e cálculo do impacto no PIB</description>
+      <description>Modelo SEIR com diferente R0 para quarentena e cálculo do impacto no PIB</description>
       <guid>alexandrepecora.github.io/posts/2020-06-03-simulador-covid-quarentena-economia</guid>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quarentena cedo vs tarde</title>
+      <dc:creator>Alexandre Reggi Pecora</dc:creator>
+      <link>alexandrepecora.github.io/posts/2020-06-08-quarentena-cedo-vs-tarde</link>
+      <description>Atualização do número de mortes total e per capita, dividindo os países de acordo com a data inicial da quarentena.</description>
+      <guid>alexandrepecora.github.io/posts/2020-06-08-quarentena-cedo-vs-tarde</guid>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <media:content url="alexandrepecora.github.io/posts/2020-06-08-quarentena-cedo-vs-tarde/quarentena-cedo-vs-tarde_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>Empiricus x CVM. Regulação de analistas financeiros, sim ou não?</title>
