@@ -1902,8 +1902,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* Optional: embed custom fonts here with `@import`          */
   /* This must remain at the top of this file.                 */
 
-  .hscroll {
-    overflow-x: auto; /* Horizontal */
+  .scrollit {
+      overflow:scroll;
+      height:100px;
   }
 
   p {
@@ -2184,8 +2185,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<strong> About me: </strong> <br>
-<table class="hscroll">
+<p><strong> About me: </strong> <br></p>
+<div style="overflow-x:auto;">
+<table>
 <tr>
 <td label>
 <img align="left" src="images/spotlight.jpg" width="375">
@@ -2204,6 +2206,7 @@ Minneapolis, MN, 55455
 </td>
 </tr>
 </table>
+</div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
