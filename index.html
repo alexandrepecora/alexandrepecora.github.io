@@ -1902,20 +1902,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* Optional: embed custom fonts here with `@import`          */
   /* This must remain at the top of this file.                 */
 
-  @media screen and (max-width: 600px) {
-    table thead {
-      display: none;
-    }
-    table td {
-      display: flex;
-    }
-    
-  table td::before {
-      content: attr(label);
-      font-weight: bold;
-      width: 60px;
-      min-width: 60px;
-    }
+  .hscroll {
+    overflow-x: auto; /* Horizontal */
   }
 
   p {
@@ -2196,7 +2184,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<body>
 <strong> About me: </strong> <br>
 <table>
 <tr>
