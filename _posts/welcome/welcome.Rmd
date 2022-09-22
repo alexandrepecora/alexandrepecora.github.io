@@ -1,0 +1,32 @@
+---
+title: "About Me"
+description: |
+  I am a bla bla bla
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+<table>
+<tr>
+<td>
+<img align="left" src="spotlight.jpg" width="150">
+</td>
+<td>
+I am Ph.D Candidate in Finance from University of Minnesota, Carlson School of Management. 
+
+My research interests are Fintechs, Financial intermediaries and International Finance. 
+</td>
+</tr>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

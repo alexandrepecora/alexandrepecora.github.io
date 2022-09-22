@@ -1,0 +1,21 @@
+name: "distill_blog"
+title: "Alexandre Reggi Pecora"
+theme: theme.css
+description: |
+  Research: Alexandre Reggi Pecora
+base_url: alexandrepecora.github.io
+navbar:
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Other"
+      href: other.html
+      
+  search: false
+output: distill::distill_article
+collections:
+  posts:
+    citations: false
+toc: true
