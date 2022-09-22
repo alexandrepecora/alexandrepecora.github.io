@@ -1902,6 +1902,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* Optional: embed custom fonts here with `@import`          */
   /* This must remain at the top of this file.                 */
 
+  @media screen and (max-width: 600px) {
+    table thead {
+      display: none;
+    }
+    table td {
+      display: flex;
+    }
+    
+  table td::before {
+      content: attr(label);
+      font-weight: bold;
+      width: 120px;
+      min-width: 120px;
+    }
+  }
 
   p {
     text-align: justify;
@@ -2184,10 +2199,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p><strong> About me: </strong> <br></p>
 <table>
 <tr>
-<td>
+<td label>
 <img align="left" src="images/spotlight.jpg" width="375">
 </td>
-<td>
+<td label>
 <p>I am a Ph.D Candidate in Finance from the University of Minnesota, Carlson School of Management. <br></p>
 <p>My research interests are Fintech, Financial Intermediaries and International Finance. <br>
 I am particularly interested in how financial frictions can be overcome to improve the conditions of underprivileged individuals, businesses or countries. My research has been published in the Journal of Financial Economics.</p>
