@@ -5,7 +5,7 @@ Write-Host "Building Distill website..." -ForegroundColor Green
 $env:RSTUDIO_PANDOC = "C:/Program Files/RStudio/resources/app/bin/quarto/bin/tools"
 
 # Run R compilation
-$rPath = "C:/Users/alexpecora/AppData/Local/Programs/R/R-4.4.1/bin/R.exe"
+$rPath = "C:/Users/alexpecora/AppData/Local/Programs/R/R-4.3.1/bin/R.exe"
 $rCommand = "Sys.setenv(RSTUDIO_PANDOC='C:/Program Files/RStudio/resources/app/bin/quarto/bin/tools'); rmarkdown::render_site()"
 
 & $rPath -e $rCommand
